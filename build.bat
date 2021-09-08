@@ -1,0 +1,1 @@
+cmake --build out/build_x64 --config Debug
