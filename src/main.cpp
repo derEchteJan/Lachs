@@ -1,17 +1,15 @@
 // main.cpp
 
+#pragma warning(push, 1) // disable warnings for third party headers
 #include <QApplication>
-#include <iostream>
-#include "window.h"
+#pragma warning(pop)
 
+#include "window.h"
 
 int main(int argc, char **argv)
 {
-  std::cout << "Hello World!\n";
-  QApplication app(argc, argv);
-
-  Window window;
-  window.show();
-
-  return app.exec();
+	QApplication app(argc, argv);
+	Window window;
+	window.show();
+	return app.exec();
 }

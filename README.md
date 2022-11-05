@@ -1,3 +1,3 @@
 # Lachs 🐟
 
-c++ with cmake and Qt
+c++ demo project using cmake and Qt

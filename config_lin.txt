@@ -1,0 +1,2 @@
+QT_BASE="~/Qt/5.15.2/gcc_64"
+BUILD_DIR="build/gcc_x64"
