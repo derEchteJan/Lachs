@@ -11,3 +11,6 @@ prerequisites:
 compiling:
 - on windows fill in [config_win.txt](config_win.txt) and run [all.cmd](all.cmd)
 - on linux fill in [config_lin.txt](config_lin.txt) and run [all.sh](all.sh)
+
+
+*"Lachs heißt sehr viele Zehner" - Y.Hurn*
